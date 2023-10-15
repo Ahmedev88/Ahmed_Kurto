@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmedev88
-- 👀 I’m interested in Web-development (full stack)
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m a Network Engineer
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Network and Security development projects
 - 📫 How to reach me ahmedkurto88@gmail.com
 
 <!---
